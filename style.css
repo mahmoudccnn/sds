@@ -1,0 +1,189 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .act,.logo{
+    margin-right: 600px;
+    text-decoration: none;
+    height: 60px;
+    color: white;
+    width: 170px;
+
+ }
+
+ .sdsd{
+   position: fixed
+   ;
+   top: 100px;
+   right: 0;
+ }
+ .wide{
+    width: 500px;
+ }
+ .fixed{
+
+position: fixed;   
+}
+
+ .na{
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(255, 255, 255);
+    transition: 3s all;
+
+ }
+ .padding{
+    padding-top: 30px;
+ }
+ .home{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(drew-coffman-1872.jpg);
+
+ }
+ .text-center{
+    text-align: center;
+    color: white;
+ }
+ .b{
+    margin-top: 50px;
+    font:100px;
+    font-size: 60px;
+ }
+ .a{
+    margin-top: 60px;
+ }
+ .c{
+    font-size: 20px;
+ }
+
+ .btnoo{
+    height: 50px;
+    width: 140px;
+    color: white;
+    margin-left: 500px;
+    font-weight: 700;
+
+    border: 1px solid white;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: rgb(85, 50, 4);
+    transition: 3s all;
+ }
+ .btnoo:hover{
+color: black;
+background-color: white;
+ }
+
+ .btn,.btno{
+    font-weight: 800;
+ }
+
+ 
+ .btno{
+    height: 50px;
+    width: 140px;
+    color: rgb(218, 206, 206);
+    border: 1px solid white;
+    border-radius: 30px;
+
+    background-color:transparent;
+    transition: 3s all;
+ }
+ .btno:hover{
+color: rgb(241, 232, 232);
+background-color: rgb(134, 67, 4);
+ }
+ .buttons{
+    margin-left: 300px;
+ }
+ .fa-solid{
+    margin-right: 10px;
+ }
+
+ .fa-person, .fa-heart
+ ,.fa-check,.fa-solid,.fa-brands{
+    font-size: 20px;
+    border-radius: 50%;
+    padding: 10px;
+    border: 2px solid coral;
+ }
+ .eo{
+    margin-top: 90px;
+ }
+ 
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+ .af{
+    background-color:snow;
+    padding: 60px;
+ }
+ .bl{
+    color: black;
+ }
+ .jo{
+    width: px;
+ }
+ .do{
+color: black;
+    margin-bottom: 60px;
+ }
+ .fa-solid,.fa-brands{
+    color: white;
+    background-color: chocolate;
+ }
+ .we{
+    width: 300px;
+ }
+ p{
+    text-decoration: none;
+ }
+ li{
+    list-style: none;
+ }
+ a{
+    text-decoration: none;
+ }
+ .pp{
+    color: rgb(119, 112, 112);
+    transition: 3s all;
+    text-decoration: none;
+ }
+
+ .pp:hover{
+    padding-left: 20px;
+    color: rgb(30, 210, 69);
+ }
+ .footer{
+   padding-top: 100px;
+   height: 70vh;
+   width: 100vw; 
+   display: flex
+   ;
+   justify-content: space-evenly;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   background-color: rgba(129, 117, 109, 0.527);
+ }
+ .section{
+   width: 300px;
+ }
+ h3{
+   color: white;
+ }
+
+ .yy{
+   padding-top: 100px;
+   background-color: rgb(173, 166, 163);
+   height: 350px;
+   width: 100vw;
+ }
